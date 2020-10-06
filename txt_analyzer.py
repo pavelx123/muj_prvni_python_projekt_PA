@@ -1,35 +1,4 @@
 '''
-def scitani(x, y):
-    return x + y
-
-print(scitani(10, 5))
-'''
-
-
-#file = open('new_file.txt', 'w')
-#file.write('tohle je muj text')
-#print(file)
-#file.close()
-
-#file = open('new_file.txt', 'r')
-#file.seek(0)
-#file.read()
-#print(file)
-#file.close()
-
-'''
-with open('text1.txt', 'w') as file:
-    file.write('Tohle je prvni radek.')
-
-with open('text1.txt', 'r') as file:
-    text = file.read()
-
-print(text)
-'''
-
-
-
-'''
 author = Pavel Šumichrast 5.10.2020
 '''
 TEXTS = ['''
@@ -202,4 +171,4 @@ for x in vyber:
 for x in vyber:
     print('Počet slov která jsou celá velká', x.islower())
 
-
+# Zatím víc nedokážu, ale postupně !!!
